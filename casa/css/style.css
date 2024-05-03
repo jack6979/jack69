@@ -1,0 +1,11 @@
+.fofoca {
+    background-color: red;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    border: 5px solid rgb(245, 209, 9);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 400px;
+    transform: translate(-50%,);}
