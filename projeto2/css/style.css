@@ -16,9 +16,10 @@
 
 }
 
-
-
-
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+}
 
 .navbar.bg-body-tertiary{
     background-color:rgb(237, 237, 13,0.5) ! important;
